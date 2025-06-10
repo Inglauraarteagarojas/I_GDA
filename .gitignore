@@ -1,0 +1,25 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de sistema
+.DS_Store
+.env
+.env.local
+
+# Archivos de Streamlit
+.streamlit/
+
+# Archivos de datos
+*.json
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
